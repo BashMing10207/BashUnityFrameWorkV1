@@ -1304,7 +1304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _paramName: _Bokeh
-  _paramValue: 2
+  _paramValue: 0.5
 --- !u!4 &1867401698
 Transform:
   m_ObjectHideFlags: 0
@@ -1333,7 +1333,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _paramName: _OutLine
-  _paramValue: 0.5
+  _paramValue: 1
 --- !u!1 &1922612455
 GameObject:
   m_ObjectHideFlags: 0
